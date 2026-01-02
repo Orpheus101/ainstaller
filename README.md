@@ -12,7 +12,6 @@ Install / Run:
 Requirements:
 - A Linux desktop environment with a supported menu system
 - One of these browsers installed: brave, google-chrome, chromium, firefox, microsoft-edge
-- (Optional) GitHub CLI `gh` if you want to create repos from the command line
 
 Details:
 - The script creates a .desktop file in ~/.local/share/applications and (optionally) copies a provided icon into ~/.local/share/icons/webapp-icons
