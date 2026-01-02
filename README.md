@@ -19,4 +19,3 @@ Details:
 - To remove the launcher later, delete the .desktop file shown by the script
 
 License: Add your preferred license.
-# dali
