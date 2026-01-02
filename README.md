@@ -1,5 +1,7 @@
 Ainstaller - Web App Shortcut Creator for Browsers
 
+![Ainstaller Logo](ainstaller.png)
+
 Files:
 - Ainstaller.sh : installer script to create a .desktop launcher for web apps.
 
