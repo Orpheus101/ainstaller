@@ -18,4 +18,4 @@ Details:
 - The script creates a .desktop file in ~/.local/share/applications and (optionally) copies a provided icon into ~/.local/share/icons/webapp-icons
 - To remove the launcher later, delete the .desktop file shown by the script
 
-License: Add your preferred license.
+License: MIT
